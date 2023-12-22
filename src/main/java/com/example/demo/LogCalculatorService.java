@@ -1,3 +1,5 @@
+package com.example.demo;
+
 public interface LogCalculatorService {
 
     double naturalLogarithm(double number);
